@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'nokogiri'
+require 'open-uri'
+require 'active_record'
+require 'pg'
